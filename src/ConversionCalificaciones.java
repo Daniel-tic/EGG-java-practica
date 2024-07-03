@@ -25,5 +25,6 @@ public class ConversionCalificaciones {
             default:
                 System.out.println("la calificacion no es valida");
         }
+        sc.close();
     }
 }
