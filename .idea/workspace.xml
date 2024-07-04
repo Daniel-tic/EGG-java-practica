@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954f66c6-387f-4af7-9ddb-13f23f794ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AreaFiguras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivisionSegura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversionCalificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversionCalificaciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "Application.ClasificarNumero.executor": "Run",
     "Application.ConversionCalificaciones.executor": "Run",
     "Application.Divisibilidad.executor": "Run",
+    "Application.DivisionSegura.executor": "Run",
     "Application.EstructuraControl.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OperacionesAritmeticas.executor": "Run",
@@ -57,16 +57,9 @@
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\clase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AreaFiguras">
+  <component name="RunManager" selected="Application.DivisionSegura">
     <configuration name="AreaFiguras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaFiguras" />
-      <module name="practica java EGG" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClasificarNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClasificarNumero" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DivisionSegura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivisionSegura" />
+      <module name="practica java EGG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EstructuraControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstructuraControl" />
       <module name="practica java EGG" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivisionSegura" />
         <item itemvalue="Application.AreaFiguras" />
         <item itemvalue="Application.ConversionCalificaciones" />
         <item itemvalue="Application.Divisibilidad" />
         <item itemvalue="Application.EstructuraControl" />
-        <item itemvalue="Application.ClasificarNumero" />
       </list>
     </recent_temporary>
   </component>
