@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954f66c6-387f-4af7-9ddb-13f23f794ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaEntero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaExtra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenasLongitud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculosMath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +40,7 @@
     "Application.CadenaExtra.executor": "Run",
     "Application.CadenasLongitud.executor": "Run",
     "Application.Calculadora.executor": "Run",
+    "Application.CalculosMath.executor": "Run",
     "Application.ClasificarNumero.executor": "Run",
     "Application.ConversionCalificaciones.executor": "Run",
     "Application.Divisibilidad.executor": "Run",
@@ -65,14 +63,7 @@
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\clase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CadenaExtra">
-    <configuration name="AreaFiguras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaFiguras" />
-      <module name="practica java EGG" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CalculosMath">
     <configuration name="CadenaEntero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CadenaEntero" />
       <module name="practica java EGG" />
@@ -94,6 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculosMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculosMath" />
+      <module name="practica java EGG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DivisionSegura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DivisionSegura" />
       <module name="practica java EGG" />
@@ -103,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculosMath" />
         <item itemvalue="Application.CadenaExtra" />
         <item itemvalue="Application.CadenasLongitud" />
         <item itemvalue="Application.CadenaEntero" />
         <item itemvalue="Application.DivisionSegura" />
-        <item itemvalue="Application.AreaFiguras" />
       </list>
     </recent_temporary>
   </component>
