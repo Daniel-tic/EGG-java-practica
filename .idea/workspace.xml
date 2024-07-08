@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954f66c6-387f-4af7-9ddb-13f23f794ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DivisionSegura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CadenaEntero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CadenaExtra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CadenasLongitud.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +38,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AreaFiguras.executor": "Run",
+    "Application.CadenaAEntero.executor": "Run",
+    "Application.CadenaEntero.executor": "Run",
+    "Application.CadenaExtra.executor": "Run",
+    "Application.CadenasLongitud.executor": "Run",
     "Application.Calculadora.executor": "Run",
     "Application.ClasificarNumero.executor": "Run",
     "Application.ConversionCalificaciones.executor": "Run",
@@ -46,6 +53,7 @@
     "Application.Operadores.executor": "Run",
     "Application.ParoImpar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -57,7 +65,7 @@
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\clase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DivisionSegura">
+  <component name="RunManager" selected="Application.CadenaExtra">
     <configuration name="AreaFiguras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaFiguras" />
       <module name="practica java EGG" />
@@ -65,15 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversionCalificaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversionCalificaciones" />
+    <configuration name="CadenaEntero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CadenaEntero" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Divisibilidad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Divisibilidad" />
+    <configuration name="CadenaExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CadenaExtra" />
+      <module name="practica java EGG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadenasLongitud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CadenasLongitud" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstructuraControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstructuraControl" />
-      <module name="practica java EGG" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CadenaExtra" />
+        <item itemvalue="Application.CadenasLongitud" />
+        <item itemvalue="Application.CadenaEntero" />
         <item itemvalue="Application.DivisionSegura" />
         <item itemvalue="Application.AreaFiguras" />
-        <item itemvalue="Application.ConversionCalificaciones" />
-        <item itemvalue="Application.Divisibilidad" />
-        <item itemvalue="Application.EstructuraControl" />
       </list>
     </recent_temporary>
   </component>
