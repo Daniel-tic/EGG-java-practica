@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954f66c6-387f-4af7-9ddb-13f23f794ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalculosMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticaArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidarContrasenia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AreaFiguras.executor": "Run",
+    "Application.Arreglos.executor": "Run",
     "Application.CadenaAEntero.executor": "Run",
     "Application.CadenaEntero.executor": "Run",
     "Application.CadenaExtra.executor": "Run",
@@ -50,6 +54,9 @@
     "Application.OperacionesAritmeticas.executor": "Run",
     "Application.Operadores.executor": "Run",
     "Application.ParoImpar.executor": "Run",
+    "Application.PracticaArrays.executor": "Run",
+    "Application.Temperatura.executor": "Run",
+    "Application.ValidarContrasenia.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -63,23 +70,9 @@
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\clase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculosMath">
-    <configuration name="CadenaEntero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CadenaEntero" />
-      <module name="practica java EGG" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CadenaExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CadenaExtra" />
-      <module name="practica java EGG" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CadenasLongitud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CadenasLongitud" />
+  <component name="RunManager" selected="Application.PracticaArrays">
+    <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arreglos" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,8 +85,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisionSegura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivisionSegura" />
+    <configuration name="PracticaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaArrays" />
+      <module name="practica java EGG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temperatura" />
+      <module name="practica java EGG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidarContrasenia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidarContrasenia" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticaArrays" />
+        <item itemvalue="Application.ValidarContrasenia" />
+        <item itemvalue="Application.Arreglos" />
+        <item itemvalue="Application.Temperatura" />
         <item itemvalue="Application.CalculosMath" />
-        <item itemvalue="Application.CadenaExtra" />
-        <item itemvalue="Application.CadenasLongitud" />
-        <item itemvalue="Application.CadenaEntero" />
-        <item itemvalue="Application.DivisionSegura" />
       </list>
     </recent_temporary>
   </component>
