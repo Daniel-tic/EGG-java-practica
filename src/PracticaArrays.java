@@ -19,7 +19,10 @@ public class PracticaArrays {
         //busquedaElemento(sc);
 
         //ejercicio 5
-        numAleatorio(sc);
+        //numAleatorio(sc);
+
+        //ejercicio 6
+        sumaPosicionPares(sc);
     }
 
     public static void sumarNumeros(Scanner sc){
@@ -106,5 +109,22 @@ public class PracticaArrays {
             }
         }
         System.out.println("la cantidad de pares es: " + contadorPares);
+    }
+
+    public static void sumaPosicionPares(Scanner sc){
+        System.out.println("ingrese el tamanio del arreglo: ");
+        int tamanio = sc.nextInt();
+        int[] numeros = new int[tamanio]; //tamanio de la matriz
+        for (int i = 0; i < tamanio; i++) {
+            System.out.println("ingrese un numero: ");
+            numeros[i] = sc.nextInt();
+        }
+        int suma = 0;
+        for (int i = 0; i < tamanio; i++) {
+            if (i % 2 == 0) {
+                suma = suma + numeros[i];
+            }
+        }
+        System.out.println("la suma de los pares es: " + suma);
     }
 }

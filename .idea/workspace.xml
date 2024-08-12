@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954f66c6-387f-4af7-9ddb-13f23f794ec2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AdivinaNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticaMetodo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PracticaArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticaArrays.java" afterDir="false" />
     </list>
@@ -52,11 +54,12 @@
     &quot;Application.Operadores.executor&quot;: &quot;Run&quot;,
     &quot;Application.ParoImpar.executor&quot;: &quot;Run&quot;,
     &quot;Application.PracticaArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticaMetodos.executor&quot;: &quot;Run&quot;,
     &quot;Application.Temperatura.executor&quot;: &quot;Run&quot;,
     &quot;Application.ValidarContrasenia.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
@@ -67,7 +70,7 @@
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\clase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PracticaArrays">
+  <component name="RunManager" selected="Application.Arreglos">
     <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arreglos" />
       <module name="practica java EGG" />
@@ -75,15 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculosMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculosMath" />
+    <configuration name="PracticaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaArrays" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticaArrays" />
+    <configuration name="PracticaMetodo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaMetodo" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,7 +112,6 @@
         <item itemvalue="Application.ValidarContrasenia" />
         <item itemvalue="Application.Arreglos" />
         <item itemvalue="Application.Temperatura" />
-        <item itemvalue="Application.CalculosMath" />
       </list>
     </recent_temporary>
   </component>
