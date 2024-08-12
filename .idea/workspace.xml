@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954f66c6-387f-4af7-9ddb-13f23f794ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AdivinaNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticaMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetodoMultiplicar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticaArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticaArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,43 +32,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AreaFiguras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arreglos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CadenaAEntero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CadenaEntero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CadenaExtra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CadenasLongitud.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculosMath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClasificarNumero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversionCalificaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Divisibilidad.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivisionSegura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstructuraControl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperacionesAritmeticas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operadores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParoImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticaArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticaMetodos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Temperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidarContrasenia.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaFiguras.executor": "Run",
+    "Application.Arreglos.executor": "Run",
+    "Application.CadenaAEntero.executor": "Run",
+    "Application.CadenaEntero.executor": "Run",
+    "Application.CadenaExtra.executor": "Run",
+    "Application.CadenasLongitud.executor": "Run",
+    "Application.Calculadora.executor": "Run",
+    "Application.CalculosMath.executor": "Run",
+    "Application.ClasificarNumero.executor": "Run",
+    "Application.ConversionCalificaciones.executor": "Run",
+    "Application.Divisibilidad.executor": "Run",
+    "Application.DivisionSegura.executor": "Run",
+    "Application.EstructuraControl.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MetodoMultiplicar.executor": "Run",
+    "Application.OperacionesAritmeticas.executor": "Run",
+    "Application.Operadores.executor": "Run",
+    "Application.ParoImpar.executor": "Run",
+    "Application.PracticaArrays.executor": "Run",
+    "Application.PracticaMetodos.executor": "Run",
+    "Application.Temperatura.executor": "Run",
+    "Application.ValidarContrasenia.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\src" />
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\clase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Arreglos">
+  <component name="RunManager" selected="Application.MetodoMultiplicar">
     <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arreglos" />
       <module name="practica java EGG" />
@@ -78,15 +77,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticaArrays" />
+    <configuration name="MetodoMultiplicar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodoMultiplicar" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticaMetodo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticaMetodo" />
+    <configuration name="PracticaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaArrays" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MetodoMultiplicar" />
         <item itemvalue="Application.PracticaArrays" />
         <item itemvalue="Application.ValidarContrasenia" />
         <item itemvalue="Application.Arreglos" />
