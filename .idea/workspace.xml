@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954f66c6-387f-4af7-9ddb-13f23f794ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MetodoMultiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetodoCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetodoParImpar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,9 @@
     "Application.DivisionSegura.executor": "Run",
     "Application.EstructuraControl.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MetodoCalculadora.executor": "Run",
     "Application.MetodoMultiplicar.executor": "Run",
+    "Application.MetodoParImpar.executor": "Run",
     "Application.OperacionesAritmeticas.executor": "Run",
     "Application.Operadores.executor": "Run",
     "Application.ParoImpar.executor": "Run",
@@ -69,9 +73,9 @@
       <recent name="C:\Users\DAn1\Documents\intellij\practica java EGG\clase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MetodoMultiplicar">
-    <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arreglos" />
+  <component name="RunManager" selected="Application.MetodoCalculadora">
+    <configuration name="MetodoCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodoCalculadora" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,15 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticaArrays" />
+    <configuration name="MetodoParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodoParImpar" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temperatura" />
+    <configuration name="PracticaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaArrays" />
       <module name="practica java EGG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MetodoCalculadora" />
+        <item itemvalue="Application.MetodoParImpar" />
         <item itemvalue="Application.MetodoMultiplicar" />
         <item itemvalue="Application.PracticaArrays" />
         <item itemvalue="Application.ValidarContrasenia" />
-        <item itemvalue="Application.Arreglos" />
-        <item itemvalue="Application.Temperatura" />
       </list>
     </recent_temporary>
   </component>
